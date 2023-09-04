@@ -1,5 +1,5 @@
 # Let's Learn Java
-এই রিপোজিটরি আমার সহশিক্ষার্থীদের জাভা শেখানোর লক্ষ্য রেখেছে আমাদের সিলেবাসে জাভা আছে, তাই আমরা জাভা শেখা অবশ্যই করতে হবে। কিন্তু শুধু পরীক্ষায় ভাল ফলাফল পেতের জন্য নয়, আপনাকে জাভা গভীরভাবে শেখে আমাদের ভবিষ্যত উন্নত করতে হবে।
+ This repo aims to help my classmates to learn java. As we have java in our syllabus, We hava to have leran java. But not for just make good result in exam. Rather than we will learn java in deep and make our future better.
 
 ## What will I do?
 In this repository, I will regularly upload Java code along with detailed comments to facilitate collaborative practice sessions. These comments will provide explanations, tips, and insights into the code, making it easier for all of us to learn and improve our programming skills collectively
@@ -7,8 +7,9 @@ In this repository, I will regularly upload Java code along with detailed commen
 
 ## Why wee should learn java in deep ?
 
-জাভা খুব শক্তিশালী এবং জনপ্রিয় প্রোগ্রামিং ভাষা জাভা খুব শক্তিশালী এবং জনপ্রিয় প্রোগ্রামিং ভাষা। অনেক বড় প্রকল্প জাভা দ্বারা প্রয়োজনীয় শক্তি প্রাপ্ত করে। জাভা ক্রস প্ল্যাটফর্ম সাপোর্ট করে। এটি মানে, জাভা উইন্ডোজ, ম্যাক ওএস, লিনাক্স, iOS এবং এন্ড্রয়েডে কাজ করবে। জাভা একটি অবজেক্ট-অরিয়েন্টেড প্রোগ্রামিং ভাষা। তাই ভবিষ্যতে ভালো করার জন্য জাভা শেখার সর্বোত্তম পর্যায় হতে পারে।
+Java is very powerfull and popular programming language. Many big projects are powered by java. Java are cross paltfrom supported. That means java will word in windows, Mac OS, Linux, iOS as well as Android. Java is object oriented programming language. So to learn java to make future better will be the best choice.
 
+## Why wee should choice and learn java ?
 1. **প্রয়োগক্ষেত্রে ব্যবহারযোগ্য**: Java একটি বেশি প্রয়োগক্ষেত্রে ব্যবহৃত প্রোগ্রামিং ভাষা, যা সফল এবং ব্যবহারযোগ্য সফ্টওয়্যার বানাতে সাহায্য করে।
 
 2. **ক্রস-প্ল্যাটফর্ম সাপোর্ট**: Java ক্রস-প্ল্যাটফর্ম সাপোর্ট করে, অর্থাৎ এটি যে কোন অপারেটিং সিস্টেমে চলানো যায়।
