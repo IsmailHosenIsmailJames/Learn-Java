@@ -19,6 +19,75 @@ public class Operator {
          * 6. Conditional Operator ( ?, :)
          * 7. Special Operator (".", ",") 
          */
-        sum = 5;
+        /*
+         * Here a list of all kinds of operators in Java:
+         * 
+         * 1. Arithmetic Operators:
+         *    - `+` (addition)
+         *    - `-` (subtraction)
+         *    - `*` (multiplication)
+         *    - `/` (division)
+         *    - `%` (modulus)
+         * 
+         * 2. Relational Operators:
+         *    - `==` (equal to)
+         *    - `!=` (not equal to)
+         *    - `<` (less than)
+         *    - `>` (greater than)
+         *    - `<=` (less than or equal to)
+         *    - `>=` (greater than or equal to)
+         * 
+         * 3. Logical Operators:
+         *    - `&&` (logical AND)
+         *    - `||` (logical OR)
+         *    - `!` (logical NOT)
+         * 4. Bitwise Operators:
+         *    - `&` (bitwise AND)
+         *    - `|` (bitwise OR)
+         *    - `^` (bitwise XOR)
+         *    - `~` (bitwise NOT)
+         *    - `<<` (left shift)
+         *    - `>>` (right shift)
+         *    - `>>>` (unsigned right shift)
+         * 
+         * 5. Assignment Operators:
+         *    - `=` (assignment)
+         *    - `+=` (addition assignment)
+         *    - `-=` (subtraction assignment)
+         *    - `*=` (multiplication assignment)
+         *    - `/=` (division assignment)
+         *    - `%=` (modulus assignment)
+         *    - `&=` (bitwise AND assignment)
+         *    - `|=` (bitwise OR assignment)
+         *    - `^=` (bitwise XOR assignment)
+         *    - `<<=` (left shift assignment)
+         *    - `>>=` (right shift assignment)
+         *    - `>>>=` (unsigned right shift assignment)
+         * 
+         * 6. Increment and Decrement Operators:
+         *    - `++` (increment)
+         *    - `--` (decrement)
+         * 
+         * 7. Conditional (Ternary) Operator:
+         *    - `? :` (conditional or ternary operator)
+         * 
+         * 8. instanceof Operator:
+         *    - `instanceof` (used for type checking)
+         * 
+         * 9. Type Cast Operator:
+         *    - `(type)` (used for type casting)
+         * 
+         * 10. Member Access Operators:
+         *     - `.` (dot operator, for accessing class members)
+         *     - `->` (arrow operator, for accessing instance members in lambda expressions)
+         * 
+         * 11. Array Access Operator:
+         *     - `[]` (square brackets, for accessing array elements)
+         * 
+         * 12. String Concatenation Operator:
+         *     - `+` (for concatenating strings)
+         */
+
+        System.out.println(sum);
     }
 }
