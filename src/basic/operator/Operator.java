@@ -1,6 +1,6 @@
-package basic;
+package basic.operator;
 
-public class Opearator {
+public class Operator {
     public static void main(String[] args) {
         int sum = 10 + 20;
         /*
@@ -10,8 +10,8 @@ public class Opearator {
          */
 
         /*
-         * There are 7 types of opearator. There are :
-         * 1. Arithmetic Opearator ( +, -, *, /, %, etc)
+         * There are 7 types of operator. There are :
+         * 1. Arithmetic Operator ( +, -, *, /, %, etc)
          * 2. Relational Operator ( ==, >, <, >=, <=, !=, etc)
          * 3. Logical Operator ( &&, ||, ! )
          * 4. Bitwise Operator ( &, |, ^, <<, >>, ~)
@@ -19,5 +19,6 @@ public class Opearator {
          * 6. Conditional Operator ( ?, :)
          * 7. Special Operator (".", ",") 
          */
+        sum = 5;
     }
 }
