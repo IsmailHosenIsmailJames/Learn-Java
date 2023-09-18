@@ -1,4 +1,4 @@
-package Job.Job_1;
+package Job.Job_2;
 
 import java.util.Scanner;
 
