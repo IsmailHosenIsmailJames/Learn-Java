@@ -6,6 +6,7 @@ class tem{
     public static void main(String[] args) throws IOException {
         Scanner get = new Scanner(System.in);
         String s = get.nextLine();
+        get.close();
         int len =  s.length();
         for (int i = 0; i <len; i++){
             char temC = s.charAt(i);
